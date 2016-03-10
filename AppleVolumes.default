@@ -176,8 +176,6 @@
 # The line below sets some DEFAULT, starting with Netatalk 2.1.
 :DEFAULT: options:upriv,usedots
 
-# By default all users have access to their home directories.
-~/			"Home Directory"
 /home/protonet/dashboard/shared/files/timemachine/$u "TimeMachine" options:tm
 
 # End of File
